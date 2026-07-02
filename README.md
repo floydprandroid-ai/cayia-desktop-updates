@@ -1,4 +1,4 @@
-# Cayia — Updates
+# Cayia - Updates
 
 Este repositorio contiene los releases publicos de Cayia  para actualizaciones automaticas.
 
